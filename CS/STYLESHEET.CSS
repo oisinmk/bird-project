@@ -1,0 +1,378 @@
+
+ *
+	{
+	Padding: 0;
+Margin: 0;
+	Font-size:100%;
+	Line-height:1em;
+	}
+ 
+
+
+BODY
+{
+
+ font-size: 100%;
+    height: 100%;
+ max-width: 100%;
+    
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden; 
+    background: #f6f6f6;
+}
+
+
+
+
+.intro
+
+{
+    
+    
+   max-width: 100%;
+    
+    height: 100vh; 
+    background-image: url(../BACKGROUND2.png);
+    position: relative;
+    background-size: cover;
+  background-repeat: no-repeat;
+    
+}
+/*-------               
+.intro h1
+{
+    
+     font-family: 'Shrikhand', cursive;
+    font-size: 2em;
+    position: relative;
+    text-align: center;
+    top:40%;
+    margin-right: 32%;
+    color: #2B2B2B;
+-------*////////
+   
+    
+}
+
+.intro h2
+{
+    
+    font-size: .9em;
+    top:43%; 
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    text-align: center;
+    margin-right: 32%;
+    
+}
+
+.intro p
+{
+    font-size: .9em;
+    top:45%; 
+    font-family: 'Raleway', sans-serif;
+    position: relative;
+    text-align: center; 
+    margin-right: 32%;
+    
+    
+    
+}
+
+
+
+.intro2
+{
+    background-color: #f6f6f6;
+   
+    max-width: 100%;
+    height: 130vh;
+    padding-bottom: 10%;
+    background-image: url(../grassy.png);
+   background-repeat: no-repeat;
+  
+    
+    
+    
+    
+}
+
+.intro2 p
+{
+    
+    color:#2b2b2b;
+    width: 32%;
+    text-align: justify;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:23%;
+    font-size: 1.2em;
+    margin: 0 auto;
+     
+    padding-bottom: 2%;
+    
+
+    
+    
+}
+
+
+#pintro
+{
+    padding-top: .5%;
+    color:#2b2b2b;
+    width: 40%;
+   
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    top:15%;
+    font-size: 1.4em;
+  
+
+    padding-bottom: .5%;
+    border-bottom: 5px solid #FBD42C;
+}
+
+
+#bird
+{
+    
+   position: relative;
+
+      
+ 
+    
+    
+    
+    
+    
+    
+    
+}
+
+.futile
+{
+    
+       background-color: #f6f6f6;
+   
+    max-width: 100%;
+    height: 130vh;
+    padding-bottom: 10%;
+  
+    
+    
+    
+    
+}
+.futile h2
+{
+    
+   padding-top: .5%;
+    color:#2b2b2b;
+    width: 29%;
+   
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    top:15%;
+    font-size: 2em;
+  margin: auto;
+
+    padding-bottom: .5%;
+    border-bottom: 5px solid #FBD42C;
+    
+    
+}
+
+.futile p
+{
+    
+     
+     color:#2b2b2b;
+    width: 30%;
+    text-align: justify;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:25%;
+    font-size: 1em;
+    margin: 0 auto;
+     
+    padding-bottom: 2%;
+    
+    
+}
+
+#pintro1
+{
+   color:#2b2b2b;
+    width: 40%;
+   
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    top:25%;
+    font-size: 1.4em;
+    align-content: center;
+    margin: 0 auto;
+    padding-bottom: 4%;
+}   
+   
+
+
+blockquote
+{
+    
+     color:#2b2b2b;
+    width: 55%;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:25%;
+    font-size: 1.3em;
+     margin: 0 auto;
+    padding-bottom: 2%;
+     
+    max-width: 100%;
+    padding-top: 25%;
+        padding-bottom: 25%;
+    line-height: 1.5em;
+}
+
+.vanished
+{
+    
+    
+    
+     background-color: #f6f6f6;
+    height:120vh;
+    max-width: 100%;
+    
+    
+}
+
+.vanished p
+{
+      color:#2b2b2b;
+    width: 40%;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:35%;
+    font-size: 1.3em;
+     margin: 0 auto;
+    padding-bottom: 2%;
+    
+    
+    
+}
+.vanished h2
+{
+    
+  padding-top: .5%;
+    color:#2b2b2b;
+    width: 30%;
+   
+    position: relative;
+    font-family: 'Oswald', sans-serif;
+    top:15%;
+    font-size: 2em;
+  margin: auto;
+
+    padding-bottom: .5%;
+    border-bottom: 5px solid #FBD42C;
+    
+    
+}
+ 
+    
+    
+
+
+.thirty
+{
+    
+ 
+     background-color: #f6f6f6;
+    height:120vh;
+    max-width: 100%;   
+    
+    
+    
+}
+.thirty p
+{
+    
+      color:#f6f6f6;
+    width: 40%;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:25%;
+    font-size: 1.3em;
+     margin: 0 auto;
+    padding-bottom: 2%;
+    
+    
+    
+    
+}
+
+.winter
+{
+    
+    background-color: #f6f6f6;
+    height:120vh;
+    max-width: 100%;   
+      
+    
+}
+
+.winter p
+
+{
+    
+    
+     color:#2b2b2b;
+    width: 40%;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:25%;
+    font-size: 1.3em;
+     margin: 0 auto;
+    padding-bottom: 2%; 
+    
+    
+}
+
+.newzealand
+{
+    
+      background-color: #f6f6f6;
+    height:120vh;
+    max-width: 100%;   
+    
+    
+    
+    
+}
+
+.newzealand p
+{
+    
+      color:#f6f6f6;
+    width: 40%;
+   
+    position: relative;
+    font-family:  'Raleway', sans-serif;
+    top:25%;
+    font-size: 1.3em;
+     margin: 0 auto;
+    padding-bottom: 2%;
+    
+    
+    
+}
+
+
